@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Aditi, and I'm studying Data Science & Economics at USC!
-- 👀 This is basically a compilation of what I've done throughout college.
-- 📫 How to reach me: singhadi@usc.edu
+- 👋 Hi, I’m Aditi!
+- 👀 This is basically a compilation of what I've done throughout undergrad and grad school.
+- 📫 How to reach me: ssingh.adii@gmail.com
